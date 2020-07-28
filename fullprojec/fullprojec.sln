@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "fullprojec", "fullprojec\fullprojec.vbproj", "{07218E39-A74D-4F84-872C-EAF6A35E4563}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoginIMG", "LoginIMG", "{C4ACCEF5-6E88-4D09-B18D-7BE9A6586978}"
+	ProjectSection(SolutionItems) = preProject
+		sawir.png = sawir.png
+		sawirGadaal.jpg = sawirGadaal.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07218E39-A74D-4F84-872C-EAF6A35E4563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07218E39-A74D-4F84-872C-EAF6A35E4563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07218E39-A74D-4F84-872C-EAF6A35E4563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07218E39-A74D-4F84-872C-EAF6A35E4563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB56B56E-BF28-49E9-A4F9-CCABF1E494B7}
+	EndGlobalSection
+EndGlobal
